@@ -1,0 +1,9 @@
+{
+	"name": "adf-ucb-sisger",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "374c18bf-805d-458a-905c-84db76e416c3",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
