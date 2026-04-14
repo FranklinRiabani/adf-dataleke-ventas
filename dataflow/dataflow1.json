@@ -61,6 +61,7 @@
 				"select1 sink(allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     format: 'parquet',",
+				"     partitionFileNames:['inventarioLimpio'],",
 				"     umask: 0022,",
 				"     preCommands: [],",
 				"     postCommands: [],",
