@@ -1,0 +1,9 @@
+{
+	"name": "df-ucb-sisger",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d07149a0-4887-423a-a49a-1889ad7310d8",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
